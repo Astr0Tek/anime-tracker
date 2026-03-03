@@ -34,7 +34,7 @@ Tous les fichiers doivent être dans le **même dossier** :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/TON_PSEUDO/anime-tracker.git
+git clone https://github.com/Astr0Tek/anime-tracker.git
 cd anime-tracker
 ```
 
@@ -71,4 +71,4 @@ anime-tracker/
 
 ## 📜 Licence
 
-Ce projet est libre d'utilisation. La base de données anime est fournie par [manami-project](https://sourceforge.net/projects/anime-offline-database.mirror/files/).
+Ce projet est libre d'utilisation. La base de données anime est fournie par [manami-project](https://github.com/manami-project/anime-offline-database).
