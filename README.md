@@ -4,16 +4,6 @@ Une application de bureau en Python pour gérer ta liste d'animes — noter ceux
 
 ---
 
-## 📸 Captures d'écran
-
-> *À venir — ajoute tes propres captures après installation.*
-
-| Tracker | Watch Later |
-|--------|-------------|
-| ![Tracker](screenshots/tracker.png) | ![Watch Later](screenshots/watchlater.png) |
-
----
-
 ## ✨ Fonctionnalités
 
 - 🔍 **Recherche rapide** dans un catalogue de ~11 000 franchises d'animes, navigation au clavier (↑↓)
